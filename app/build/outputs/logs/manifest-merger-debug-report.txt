@@ -1,0 +1,514 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [:react-native-fbsdk-next] /Volumes/Disk1/React Native/LoginFB/node_modules/react-native-fbsdk-next/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:1-28:12
+MERGED from [com.facebook.react:react-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-login:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-gamingservices:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/38519836e27354a0c4a8ce3a66e30e6a/transformed/jetified-facebook-gamingservices-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-share:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:9:1-44:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/38f840a64be82c9e5b29ef47db03a5cc/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2991ca289005ec42be9df949e415295d/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/ebd89a55233ad4ee7b09f380367f5029/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/chicmictech/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/chicmictech/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/chicmictech/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/chicmictech/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/chicmictech/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-applinks:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/cd4b1570de45393d45bbd1e522f87131/transformed/jetified-facebook-applinks-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [com.facebook.android:facebook-messenger:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:9:1-50:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/e4cae719c184297a52b36a36197f860d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.android:facebook-bolts:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/da74e810f74e8ac230f5d51aed07cb9d/transformed/jetified-facebook-bolts-16.0.1/AndroidManifest.xml:9:1-19:12
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/chicmictech/.gradle/caches/transforms-3/48f1bac52195de5eb9beceafc3c16ad9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/d3bd581fb71aa05cb42378bdc7cd1f23/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0b977fb1a6d49726d85ca616ef0802ff/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/9437a30f0fdf36db3a854a08b7429039/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/20e8a1bcf45654832c419bbfa88b8712/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/de52fc3fb23578f02940ffac44877ce3/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chicmictech/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/7515281c598c65947497c6f9c4193053/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2473a171587adf53535d1ade7142b8da/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5e1f88c8b59ea9f8ea546c2c62d63130/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:1-37:12
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:6:5-29:19
+MERGED from [com.facebook.react:react-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-login:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/38519836e27354a0c4a8ce3a66e30e6a/transformed/jetified-facebook-gamingservices-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-gamingservices:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/38519836e27354a0c4a8ce3a66e30e6a/transformed/jetified-facebook-gamingservices-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-share:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:21:5-42:19
+MERGED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:21:5-42:19
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/chicmictech/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/chicmictech/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [com.facebook.android:facebook-applinks:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/cd4b1570de45393d45bbd1e522f87131/transformed/jetified-facebook-applinks-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-applinks:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/cd4b1570de45393d45bbd1e522f87131/transformed/jetified-facebook-applinks-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-messenger:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:18:5-48:19
+MERGED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:18:5-48:19
+MERGED from [com.facebook.android:facebook-bolts:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/da74e810f74e8ac230f5d51aed07cb9d/transformed/jetified-facebook-bolts-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [com.facebook.android:facebook-bolts:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/da74e810f74e8ac230f5d51aed07cb9d/transformed/jetified-facebook-bolts-16.0.1/AndroidManifest.xml:16:5-17:19
+MERGED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chicmictech/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chicmictech/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:16:18-44
+	android:label
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:7:7-38
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:9-107
+	android:value
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:66-105
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:20-65
+meta-data#com.facebook.sdk.ClientToken
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:9-111
+	android:value
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:64-109
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:20-63
+activity#com.loginfb.MainActivity
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:17:7-28:18
+	android:label
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:21:9-40
+	android:windowSoftInputMode
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:22:9-51
+	android:exported
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:23:9-32
+	android:configChanges
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:20:9-118
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:18:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:24:9-27:25
+action#android.intent.action.MAIN
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:25:13-65
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:25:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:26:13-73
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:26:23-70
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:32:5-98
+REJECTED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:16:5-79
+	tools:node
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:32:77-96
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:32:22-76
+uses-sdk
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/512e42cc0c381508f2d1b1ddcc0193bd/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/db3a645b5c401b5669a12f79ae5c6c0c/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-fbsdk-next] /Volumes/Disk1/React Native/LoginFB/node_modules/react-native-fbsdk-next/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk-next] /Volumes/Disk1/React Native/LoginFB/node_modules/react-native-fbsdk-next/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-login:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/38519836e27354a0c4a8ce3a66e30e6a/transformed/jetified-facebook-gamingservices-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-gamingservices:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/38519836e27354a0c4a8ce3a66e30e6a/transformed/jetified-facebook-gamingservices-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-share:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:13:5-15:41
+MERGED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:13:5-15:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/38f840a64be82c9e5b29ef47db03a5cc/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/38f840a64be82c9e5b29ef47db03a5cc/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2991ca289005ec42be9df949e415295d/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2991ca289005ec42be9df949e415295d/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/ebd89a55233ad4ee7b09f380367f5029/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/ebd89a55233ad4ee7b09f380367f5029/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/61d40ffb2f470954573454bf76bc5917/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-android:0.71.8] /Users/chicmictech/.gradle/caches/transforms-3/c03d8241981f4d52632c5c158e550467/transformed/jetified-hermes-android-0.71.8-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/chicmictech/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fbjni:fbjni:0.3.0] /Users/chicmictech/.gradle/caches/transforms-3/b515b38be608f5a762db9315db6d46ab/transformed/jetified-fbjni-0.3.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ae99e443f33005373a1c631abeddf18e/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/ad1425aacf3a864807c621770345f4ad/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/688355200c40aa27a4dab2e929598949/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4ee467b525312f17410d1ceea61d24af/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/chicmictech/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/chicmictech/.gradle/caches/transforms-3/f34db75c36d507e27ae2d16b94e01790/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/4f7da19449495f0d794a3cead1086df4/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/7733ba52bf16aacb848a21e72f3f6a02/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/d2960cc28ac3619646643ca9394ef73d/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/8b74f06b0284d35c494f7aed424722de/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/chicmictech/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/chicmictech/.gradle/caches/transforms-3/fda04c29f37516b0434cb97f63a52366/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/bf50de892a30e2807510ad0265edf4e8/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/2cbebb8888325f7b1244a9c0b037b3ff/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/056cd6cf716cc00f29e82fb5eb0e0d8c/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/62fcea25716e852e611a74dc9cb458b4/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/93d8acfd8e40425531632c8aedd9b90e/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/chicmictech/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/chicmictech/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/chicmictech/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/chicmictech/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/chicmictech/.gradle/caches/transforms-3/a8fbff62c36ce62e335fe78db7cb3794/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/0d12e24f2c8d45eb1737ab5a99280ee1/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/05a7104067522b05c86dc7c5ba14fe4c/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-applinks:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/cd4b1570de45393d45bbd1e522f87131/transformed/jetified-facebook-applinks-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-applinks:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/cd4b1570de45393d45bbd1e522f87131/transformed/jetified-facebook-applinks-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-messenger:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/d032a7771287ac848f1914782f85a55e/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/f0b9f43e80fd6d6d46007d03a0449aa0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/a571f1a33ae39cbb5d3e5c5b51c71d19/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/cfcf84fb74ea4e77b31ced41acc5b996/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/ac26a9e17786512c843a370c78c8ea62/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/e4cae719c184297a52b36a36197f860d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/e4cae719c184297a52b36a36197f860d/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-bolts:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/da74e810f74e8ac230f5d51aed07cb9d/transformed/jetified-facebook-bolts-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [com.facebook.android:facebook-bolts:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/da74e810f74e8ac230f5d51aed07cb9d/transformed/jetified-facebook-bolts-16.0.1/AndroidManifest.xml:12:5-14:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/chicmictech/.gradle/caches/transforms-3/48f1bac52195de5eb9beceafc3c16ad9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /Users/chicmictech/.gradle/caches/transforms-3/48f1bac52195de5eb9beceafc3c16ad9/transformed/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0fee5f4281872175dc7d846c5d287ade/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/bebae82550fb8d5a8ff7bc1c7d5c4d31/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/d3bd581fb71aa05cb42378bdc7cd1f23/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/d3bd581fb71aa05cb42378bdc7cd1f23/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0b977fb1a6d49726d85ca616ef0802ff/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/0b977fb1a6d49726d85ca616ef0802ff/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/50a0d758564336ca04635924d830a399/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/9437a30f0fdf36db3a854a08b7429039/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/9437a30f0fdf36db3a854a08b7429039/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/20e8a1bcf45654832c419bbfa88b8712/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/20e8a1bcf45654832c419bbfa88b8712/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/a082b73e574a24be0b6713b949b71b9a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/960424dcc50454306bc6ce467afe7684/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/de52fc3fb23578f02940ffac44877ce3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/de52fc3fb23578f02940ffac44877ce3/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chicmictech/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/chicmictech/.gradle/caches/transforms-3/17b02ce1dff236ff6ec321ff7bd5da14/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5acd99f45ac5473f0f7929dc05b6c0ab/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/chicmictech/.gradle/caches/transforms-3/63bd4c0fcce7ee6ad70bcbb2be8cf85c/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/chicmictech/.gradle/caches/transforms-3/c3849af1901b8ea4ddc083287c7f1748/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/7515281c598c65947497c6f9c4193053/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/7515281c598c65947497c6f9c4193053/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2473a171587adf53535d1ade7142b8da/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/2473a171587adf53535d1ade7142b8da/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5e1f88c8b59ea9f8ea546c2c62d63130/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/5e1f88c8b59ea9f8ea546c2c62d63130/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/chicmictech/.gradle/caches/transforms-3/68bcfb91eaf09d5b3ad76e71e3371ec2/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/chicmictech/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+queries
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:17:5-19:15
+package#com.facebook.katana
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:9-55
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:18-52
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:22:9-25:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:24:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:25:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:23:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:27:9-41:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:30:13-31
+	android:exported
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:31:13-40:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.loginfb+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:31:13-40:29
+action#android.intent.action.VIEW
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
+	android:name
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
+data
+ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
+	android:host
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
+	android:scheme
+		ADDED from [com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:30:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:34:9-40:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:35:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:37:13-39:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:25-92
+receiver#com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:41:9-47:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:43:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:42:13-118
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:44:13-46:29
+action#com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:17-103
+	android:name
+		ADDED from [com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:25-100
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107

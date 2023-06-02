@@ -1,0 +1,34 @@
+com.loginfb.app-jetified-flipper-0.125.0-0 /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/res
+com.loginfb.app-jetified-react-android-0.71.8-debug-1 /Users/chicmictech/.gradle/caches/transforms-3/22566865d31ef74cdd0cb020b75ed98d/transformed/jetified-react-android-0.71.8-debug/res
+com.loginfb.app-appcompat-1.4.1-2 /Users/chicmictech/.gradle/caches/transforms-3/2869819762abc67901fd58a9b84e0d6d/transformed/appcompat-1.4.1/res
+com.loginfb.app-browser-1.0.0-3 /Users/chicmictech/.gradle/caches/transforms-3/2991ca289005ec42be9df949e415295d/transformed/browser-1.0.0/res
+com.loginfb.app-jetified-annotation-experimental-1.1.0-4 /Users/chicmictech/.gradle/caches/transforms-3/2c406cc44c7e51a6483579314a113f0f/transformed/jetified-annotation-experimental-1.1.0/res
+com.loginfb.app-jetified-autofill-1.1.0-5 /Users/chicmictech/.gradle/caches/transforms-3/305b398eafd13a2f85fecdd51619bbe3/transformed/jetified-autofill-1.1.0/res
+com.loginfb.app-lifecycle-runtime-2.4.0-6 /Users/chicmictech/.gradle/caches/transforms-3/3584cd402b4fda3a4c5564688eaa83ea/transformed/lifecycle-runtime-2.4.0/res
+com.loginfb.app-core-1.7.0-7 /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/res
+com.loginfb.app-lifecycle-viewmodel-2.3.1-8 /Users/chicmictech/.gradle/caches/transforms-3/3bae22501956cb2f40cb2aae7d68aabd/transformed/lifecycle-viewmodel-2.3.1/res
+com.loginfb.app-jetified-facebook-messenger-16.0.1-9 /Users/chicmictech/.gradle/caches/transforms-3/4867203b70b732492103f67cfb996910/transformed/jetified-facebook-messenger-16.0.1/res
+com.loginfb.app-jetified-emoji2-views-helper-1.0.0-10 /Users/chicmictech/.gradle/caches/transforms-3/65bba5c785f706bb99b94479c9483ed7/transformed/jetified-emoji2-views-helper-1.0.0/res
+com.loginfb.app-jetified-appcompat-resources-1.4.1-11 /Users/chicmictech/.gradle/caches/transforms-3/858a0a1ce5582950d896423a8f83984e/transformed/jetified-appcompat-resources-1.4.1/res
+com.loginfb.app-media-1.0.0-12 /Users/chicmictech/.gradle/caches/transforms-3/9437a30f0fdf36db3a854a08b7429039/transformed/media-1.0.0/res
+com.loginfb.app-jetified-savedstate-1.1.0-13 /Users/chicmictech/.gradle/caches/transforms-3/9502a6bb71cbe65ff7605c9abe0fd9c7/transformed/jetified-savedstate-1.1.0/res
+com.loginfb.app-fragment-1.3.6-14 /Users/chicmictech/.gradle/caches/transforms-3/ac49766205ccd42177b4d582840522f2/transformed/fragment-1.3.6/res
+com.loginfb.app-jetified-lifecycle-process-2.4.0-15 /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/res
+com.loginfb.app-jetified-facebook-share-16.0.1-16 /Users/chicmictech/.gradle/caches/transforms-3/b8afbb7e9a27b946d0bf1cbb5350425b/transformed/jetified-facebook-share-16.0.1/res
+com.loginfb.app-jetified-startup-runtime-1.0.0-17 /Users/chicmictech/.gradle/caches/transforms-3/be8f8d425926b2ab9ec0d8d0c3caae7a/transformed/jetified-startup-runtime-1.0.0/res
+com.loginfb.app-jetified-emoji2-1.0.0-18 /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/res
+com.loginfb.app-jetified-facebook-login-16.0.1-19 /Users/chicmictech/.gradle/caches/transforms-3/d0852658a6201b606dd37d51679ed25c/transformed/jetified-facebook-login-16.0.1/res
+com.loginfb.app-jetified-tracing-1.1.0-20 /Users/chicmictech/.gradle/caches/transforms-3/d11b6876e6eb8c85795979da7f2458f5/transformed/jetified-tracing-1.1.0/res
+com.loginfb.app-coordinatorlayout-1.0.0-21 /Users/chicmictech/.gradle/caches/transforms-3/d3bd581fb71aa05cb42378bdc7cd1f23/transformed/coordinatorlayout-1.0.0/res
+com.loginfb.app-jetified-facebook-common-16.0.1-22 /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/res
+com.loginfb.app-cardview-1.0.0-23 /Users/chicmictech/.gradle/caches/transforms-3/de52fc3fb23578f02940ffac44877ce3/transformed/cardview-1.0.0/res
+com.loginfb.app-jetified-drawee-2.6.0-24 /Users/chicmictech/.gradle/caches/transforms-3/f4a65ce6ec58fd6d97bcb819934dfdd7/transformed/jetified-drawee-2.6.0/res
+com.loginfb.app-pngs-25 /Volumes/Disk1/React Native/LoginFB/android/app/build/generated/res/pngs/debug
+com.loginfb.app-resValues-26 /Volumes/Disk1/React Native/LoginFB/android/app/build/generated/res/resValues/debug
+com.loginfb.app-rs-27 /Volumes/Disk1/React Native/LoginFB/android/app/build/generated/res/rs/debug
+com.loginfb.app-mergeDebugResources-28 /Volumes/Disk1/React Native/LoginFB/android/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.loginfb.app-mergeDebugResources-29 /Volumes/Disk1/React Native/LoginFB/android/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.loginfb.app-merged_res-30 /Volumes/Disk1/React Native/LoginFB/android/app/build/intermediates/merged_res/debug
+com.loginfb.app-debug-31 /Volumes/Disk1/React Native/LoginFB/android/app/src/debug/res
+com.loginfb.app-main-32 /Volumes/Disk1/React Native/LoginFB/android/app/src/main/res
+com.loginfb.app-packaged_res-33 /Volumes/Disk1/React Native/LoginFB/node_modules/react-native-fbsdk-next/android/build/intermediates/packaged_res/debug

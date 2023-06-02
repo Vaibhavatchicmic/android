@@ -1,0 +1,208 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.loginfb"
+4    android:versionCode="1"
+5    android:versionName="1.0" > <!-- <provider android:authorities="com.facebook.app.FacebookContentProvider2295698490634988" -->
+6    <!-- android:name="com.facebook.FacebookContentProvider" -->
+7    <!-- android:exported="true" /> -->
+8    <uses-sdk
+9        android:minSdkVersion="21"
+10        android:targetSdkVersion="33" />
+11
+12    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+12-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:5:5-77
+12-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:5:22-75
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:5-67
+13-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:22-64
+14    <uses-permission android:name="android.permission.INTERNET" />
+14-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:5-67
+14-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:4:22-64
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.125.0] /Users/chicmictech/.gradle/caches/transforms-3/1de5dee59d1627955e42d3d6205f726e/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+16
+17    <queries>
+17-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:17:5-19:15
+18        <package android:name="com.facebook.katana" />
+18-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:9-55
+18-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:18:18-52
+19    </queries>
+20
+21    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+21-->[com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:5-110
+21-->[com.android.installreferrer:installreferrer:1.0] /Users/chicmictech/.gradle/caches/transforms-3/b90a5cc216349b035c08b352f7ace7e3/transformed/jetified-installreferrer-1.0/AndroidManifest.xml:9:22-107
+22
+23    <application
+23-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:6:5-29:19
+24        android:name="com.loginfb.MainApplication"
+24-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:7:7-38
+25        android:allowBackup="false"
+25-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:11:7-34
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.7.0] /Users/chicmictech/.gradle/caches/transforms-3/3994986e4b6f29f228dfe8fb9122f0d7/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:9:7-41
+29        android:label="@string/app_name"
+29-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:8:7-39
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:10:7-52
+31        android:supportsRtl="true"
+31-->[com.facebook.android:facebook-android-sdk:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/d21c1351eada6ad9942534c2de22b2af/transformed/jetified-facebook-android-sdk-16.0.1/AndroidManifest.xml:16:18-44
+32        android:theme="@style/AppTheme"
+32-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:12:7-38
+33        android:usesCleartextTraffic="true" >
+33-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:8:9-44
+34        <activity
+34-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:9-111
+35            android:name="com.facebook.react.devsupport.DevSettingsActivity"
+35-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:19-83
+36            android:exported="false" />
+36-->/Volumes/Disk1/React Native/LoginFB/android/app/src/debug/AndroidManifest.xml:11:84-108
+37
+38        <meta-data
+38-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:9-107
+39            android:name="com.facebook.sdk.ApplicationId"
+39-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:20-65
+40            android:value="@string/facebook_app_id" />
+40-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:14:66-105
+41        <meta-data
+41-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:9-111
+42            android:name="com.facebook.sdk.ClientToken"
+42-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:20-63
+43            android:value="@string/facebook_client_token" />
+43-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:15:64-109
+44
+45        <activity
+45-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:17:7-28:18
+46            android:name="com.loginfb.MainActivity"
+46-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:18:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize|uiMode"
+47-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:20:9-118
+48            android:exported="true"
+48-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:23:9-32
+49            android:label="@string/app_name"
+49-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:19:9-41
+50            android:launchMode="singleTask"
+50-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:21:9-40
+51            android:windowSoftInputMode="adjustResize" >
+51-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:22:9-51
+52            <intent-filter>
+52-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:24:9-27:25
+53                <action android:name="android.intent.action.MAIN" />
+53-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:25:13-65
+53-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:25:21-62
+54
+55                <category android:name="android.intent.category.LAUNCHER" />
+55-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:26:13-73
+55-->/Volumes/Disk1/React Native/LoginFB/android/app/src/main/AndroidManifest.xml:26:23-70
+56            </intent-filter>
+57        </activity>
+58        <activity
+58-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:22:9-25:66
+59            android:name="com.facebook.FacebookActivity"
+59-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:23:13-57
+60            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+60-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:24:13-96
+61            android:theme="@style/com_facebook_activity_theme" />
+61-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:25:13-63
+62        <activity android:name="com.facebook.CustomTabMainActivity" />
+62-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:9-71
+62-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:26:19-68
+63        <activity
+63-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:27:9-41:20
+64            android:name="com.facebook.CustomTabActivity"
+64-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:28:13-58
+65            android:exported="true" >
+65-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:29:13-36
+66            <intent-filter>
+66-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:31:13-40:29
+67                <action android:name="android.intent.action.VIEW" />
+67-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:17-69
+67-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:32:25-66
+68
+69                <category android:name="android.intent.category.DEFAULT" />
+69-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:17-76
+69-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:34:27-73
+70                <category android:name="android.intent.category.BROWSABLE" />
+70-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:17-78
+70-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:35:27-75
+71
+72                <data
+72-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:37:17-39:50
+73                    android:host="cct.com.loginfb"
+73-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:38:21-56
+74                    android:scheme="fbconnect" />
+74-->[com.facebook.android:facebook-common:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/dd07d74ecd478e0220f7108dcbc8eafc/transformed/jetified-facebook-common-16.0.1/AndroidManifest.xml:39:21-47
+75            </intent-filter>
+76        </activity>
+77
+78        <provider
+78-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+79            android:name="androidx.startup.InitializationProvider"
+79-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+80            android:authorities="com.loginfb.androidx-startup"
+80-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+81            android:exported="false" >
+81-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+82            <meta-data
+82-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+83                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+83-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+84                android:value="androidx.startup" />
+84-->[androidx.emoji2:emoji2:1.0.0] /Users/chicmictech/.gradle/caches/transforms-3/c1cd3487ee93faa69a46c921c06f102e/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+85            <meta-data
+85-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+86                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+86-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+87                android:value="androidx.startup" />
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/chicmictech/.gradle/caches/transforms-3/afe3a0cc82c76a7c864d2efd8324d92e/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+88        </provider>
+89        <!--
+90         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+91         with the application context. This config is merged in with the host app's manifest,
+92         but there can only be one provider with the same authority activated at any given
+93         point; so if the end user has two or more different apps that use Facebook SDK, only the
+94         first one will be able to use the provider. To work around this problem, we use the
+95         following placeholder in the authority to identify each host application as if it was
+96         a completely different provider.
+97        -->
+98        <provider
+98-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:29:9-32:40
+99            android:name="com.facebook.internal.FacebookInitProvider"
+99-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:30:13-70
+100            android:authorities="com.loginfb.FacebookInitProvider"
+100-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:31:13-72
+101            android:exported="false" />
+101-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:32:13-37
+102
+103        <receiver
+103-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:34:9-40:20
+104            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+104-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:35:13-86
+105            android:exported="false" >
+105-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:36:13-37
+106            <intent-filter>
+106-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:37:13-39:29
+107                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+107-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:17-95
+107-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:38:25-92
+108            </intent-filter>
+109        </receiver>
+110        <receiver
+110-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:41:9-47:20
+111            android:name="com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver"
+111-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:42:13-118
+112            android:exported="false" >
+112-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:43:13-37
+113            <intent-filter>
+113-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:44:13-46:29
+114                <action android:name="com.facebook.sdk.ACTION_CURRENT_AUTHENTICATION_TOKEN_CHANGED" />
+114-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:17-103
+114-->[com.facebook.android:facebook-core:16.0.1] /Users/chicmictech/.gradle/caches/transforms-3/561d4c6aa5d8eac93b62b602a40decc9/transformed/jetified-facebook-core-16.0.1/AndroidManifest.xml:45:25-100
+115            </intent-filter>
+116        </receiver>
+117    </application>
+118
+119</manifest>
